@@ -1,0 +1,31 @@
+#word {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.background {
+    display: flex;
+
+    background-color: rgba(155, 62, 242, 0.301);
+    border: rgb(187, 30, 255) solid 2px;
+
+    width: 400px;
+    height: 300px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.text {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
