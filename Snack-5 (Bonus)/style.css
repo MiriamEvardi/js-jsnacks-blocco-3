@@ -1,3 +1,7 @@
+body {
+    overflow: hidden;
+}
+
 #word {
     position: absolute;
     top: 50%;
@@ -28,4 +32,11 @@
     left: 50%;
     transform: translate(-50%, -50%);
 
+}
+
+img {
+    position: absolute;
+    bottom: -26%;
+    left: 50%;
+    filter: invert(0.7);
 }
