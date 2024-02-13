@@ -11,4 +11,4 @@ function reverseString(word) {
 }
 
 
-reverseString("Parallelepipedo");
+reverseString(prompt("inserisci parola"));
